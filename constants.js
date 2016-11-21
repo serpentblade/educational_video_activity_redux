@@ -1,0 +1,14 @@
+
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+
+export const TRACK_VIDEO = 'TRACK_VIDEO'
+
+export const VIDEO_STARTED = 'VIDEO_STARTED'
+export const VIDEO_PLAYED = 'VIDEO_PLAYED'
+export const VIDEO_PAUSED = 'VIDEO_PAUSED'
+export const VIDEO_ENDED = 'VIDEO_ENDED'
+export const VIDEO_REPLAYED = 'VIDEO_REPLAYED'
+export const VIDEO_SEEKED = 'VIDEO_SEEKED'
+
+export const SET_ASSESSMENT_RESPONSE = 'SET_ASSESSMENT_RESPONSE'
